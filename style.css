@@ -44,6 +44,8 @@ header a:hover, a:visited, a:active {
 
 /* END OF HEADER SECTION */
 
+/* HERO SECTION */
+
 .hero {
     display: flex;
     background-color: #1f2937 ;
@@ -78,4 +80,13 @@ button {
 
 button:hover {
     background-color: #3165af;
+}
+
+.hero-image {
+    display: flex;
+    width: 400px;
+    height: auto;
+    background-color: #5673ac;
+    justify-content: center;
+    align-items: center;
 }
