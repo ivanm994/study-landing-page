@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;    
 }
+/* HEADER SECTION */
 
 header {
     display: flex;
@@ -39,4 +40,42 @@ header a {
 
 header a:hover, a:visited, a:active {
     color: inherit;
+}
+
+/* END OF HEADER SECTION */
+
+.hero {
+    display: flex;
+    background-color: #1f2937 ;
+    color: #e5e7eb;
+    justify-content: space-between;
+    padding: 50px 150px 50px 150px;
+}
+
+.hero-text {
+    width: 400px;
+    height: auto;
+    font-size: 24px;
+    font-weight: 800;
+    color: #f9faf8;  
+}
+
+.hero-text p {
+    color: #e5e7eb;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border: none;
+    font-weight: 700;
+    padding: 5px 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #3165af;
 }
