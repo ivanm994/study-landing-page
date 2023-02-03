@@ -170,3 +170,33 @@ button:hover {
 }
 
 /* QUOTE SECTION END */
+
+/* SIGN UP SECTION */
+
+.signup-container {
+    display: flex;
+    justify-content: center;
+}
+
+.signup-section {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    width: 1000px;
+    height: auto;
+    margin: 100px 0px 100px 0px;
+    border-radius: 5px;
+}
+
+.signup-content {
+    margin: 50px 0px 50px 0px;
+}
+
+#signup-button {
+    border: 1px solid;
+    border-color: #e5e7eb;
+    margin: 50px 0px 50px 0px;   
+}
+
+/* SIGN UP SECTION END */ 
