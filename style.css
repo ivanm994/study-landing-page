@@ -200,3 +200,16 @@ button:hover {
 }
 
 /* SIGN UP SECTION END */ 
+
+/* FOOTER*/
+
+footer {
+    justify-content: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 50px;
+    text-align: center;
+    font-weight: 600;
+}
+
+/* FOOTER END*/
