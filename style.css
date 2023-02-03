@@ -140,3 +140,33 @@ button:hover {
 }
 
 /* MAIN SECTION END */
+
+/* QUOTE SECTION */
+
+.quote-container {
+    display: flex;
+    justify-content: center;
+    background-color: #e5e7eb;
+}
+
+.quote-section {
+
+    width: 900px;
+    height: auto;
+    margin: 150px 0px 100px 0px;
+}
+
+.quote-section p {
+    font-size: 30px;
+    text-align: left;
+    color: #1f2937;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.quote-section h3 {
+    text-align: right;
+    margin-right: 50px;
+}
+
+/* QUOTE SECTION END */
