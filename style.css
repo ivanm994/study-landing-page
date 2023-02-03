@@ -28,10 +28,16 @@ nav ul {
     list-style-type: none;
     margin: 10px 0 10px 0;
     padding: 20px 20px;
+    padding-right: 0px;
 }
 
 nav ul li {
     margin-right: 10px;
+}
+
+
+li:nth-last-child(-n+1){
+    margin-right: 0;
 }
 
 header a {
