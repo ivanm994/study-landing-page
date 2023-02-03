@@ -4,9 +4,7 @@
 
 Making and styling web page based on image using HTML and basic CSS.
 
-*
-*
-*
+
 
 
 
